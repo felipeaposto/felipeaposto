@@ -1,5 +1,5 @@
 - 👋 Hi, I’m felipe
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning python.
 - 🌱 I’m currently learning to program in python.
 - 💞️ I’m looking to collaborate in pyhton.
 - 📫 How to reach me: here.
